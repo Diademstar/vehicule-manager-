@@ -5,4 +5,7 @@ public class DieselEngine {
 public void stop(){
     System.out.println("Silence!"); 
 }
+public void blastHorn(){
+    System.out.println("Piiinp piiinp piiinp!"); 
+}
 }
