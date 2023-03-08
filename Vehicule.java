@@ -14,5 +14,8 @@ public class Vehicule {
    DieselEngine dE = new DieselEngine();
    dE.start();
    dE.stop();
-    }
+    
+    ElectricEngine eE = new ElectricEngine();
+    eE.start();
+}
 }
