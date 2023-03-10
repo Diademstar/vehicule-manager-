@@ -8,4 +8,10 @@ public void stop(){
 public void blastHorn(){
     System.out.println("Piiinp piiinp piiinp!"); 
 }
+public void generatePower(){
+    System.out.println("Generating power");
+}
+public void addingFuel(){
+    
+}
 }
