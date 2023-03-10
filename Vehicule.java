@@ -1,6 +1,6 @@
 public class Vehicule {
 
-  
+  int tyres;
   // private PetrolEngine pE;
     public static void main (String[] args){
   
